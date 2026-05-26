@@ -1,0 +1,37 @@
+$date
+  Wed May 06 14:21:15 2026
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module buffer_tb $end
+$var reg 1 ! tb_a $end
+$var reg 1 " tb_y $end
+$scope module dut $end
+$var reg 1 # a $end
+$var reg 1 $ y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+#10000000
+1!
+1"
+1#
+1$
+#20000000
+0!
+0"
+0#
+0$
