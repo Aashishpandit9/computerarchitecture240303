@@ -1,0 +1,20 @@
+[*]
+[*] GTKWave Analyzer v3
+[*] Copyright 1999 Anthony Bybell
+[*] 
+[*] The file is written in the window save format and may be edited when
+[*] the analyzer has not been run.  The name of the window has the 
+[*] "@" at the front so that the command line would invokes this file
+[*] only if this was the respective file name.
+[*]
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-28.000000 60000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ENCODER_TB
+[sig] 1 I[3:0]
+[sig] 1 Y[1:0]
+[sig] 1 V
+*-28.000000 60000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[color] 0 #00ff00
+[color] 5 #ffff00
